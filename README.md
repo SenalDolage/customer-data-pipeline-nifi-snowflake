@@ -8,7 +8,7 @@ The pipeline simulates a setup for loading customer data from a generated source
 - Automating file ingestion using NiFi
 - Moving data to a Snowflake staging table via Snowpipe
 - Applying **SCD Type 1** logic to update customer records
-- (TODO) Extending to **SCD Type 2** to maintain change history
+- (todo) Extending to **SCD Type 2** to maintain change history
 
 ## Architecture
 
